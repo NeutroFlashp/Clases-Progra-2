@@ -1,0 +1,4 @@
+﻿  clases2.cpp
+C:\Users\neutr\source\repos\clases2\clases2\clases2.cpp(45,3): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  AssemblyInfo.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  clases2.vcxproj -> C:\Users\neutr\source\repos\clases2\x64\Debug\clases2.exe

@@ -1,0 +1,2 @@
+C:\Users\neutr\source\repos\clases2\clases2\x64\Debug\clases2.vcxproj.AssemblyReference.cache
+C:\Users\neutr\source\repos\clases2\clases2\x64\Debug\clases2.vcxproj.SuggestedBindingRedirects.cache
